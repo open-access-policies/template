@@ -1,8 +1,5 @@
----
-title: Data Breach Risk Assessment Procedure ([RES-PROC-002])
-parent: Resilience Procedures
-nav_order: 2
----
+# Data Breach Risk Assessment Procedure ([RES-PROC-002])
+
 ### 1. Purpose
 
 To guide the Security Officer and Incident Response Team through the formal risk assessment process to determine if a security incident qualifies as a notifiable data breach requiring customer and regulatory notification.
